@@ -1,0 +1,28 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+
+#body{
+    background-color: purple;
+}
+
+#header {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+#title {
+    background-color: aliceblue;
+    font-size: 35px;
+    color: black;
+}
+
+#colorButton{
+    background-color: aliceblue;
+    color: black;
+    font-weight: lighter;
+    padding: 10px;
+    margin-left: 600px;
+    margin-top: 250px;
+}
